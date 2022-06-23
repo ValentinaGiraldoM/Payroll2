@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\PayrollExam.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\PayrollExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\PayrollExam.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\PayrollExam.AssemblyInfo.cs
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\PayrollExam.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\bin\Debug\net6.0\PayrollExam.exe
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\bin\Debug\net6.0\PayrollExam.deps.json
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\bin\Debug\net6.0\PayrollExam.runtimeconfig.json
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\bin\Debug\net6.0\PayrollExam.dll
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\bin\Debug\net6.0\PayrollExam.pdb
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\PayrollExam.dll
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\refint\PayrollExam.dll
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\PayrollExam.pdb
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\PayrollExam.genruntimeconfig.cache
+C:\Users\Sena\source\repos\PayrollExam\PayrollExam\obj\Debug\net6.0\ref\PayrollExam.dll

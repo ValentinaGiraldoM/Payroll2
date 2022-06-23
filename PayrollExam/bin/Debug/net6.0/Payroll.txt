@@ -1,0 +1,70 @@
+
+----------New Employee----------
+Document: 1
+First Name: i
+Last Name: o
+Salary: 1000000
+Worked Days: 20
+Accrued: 666666,6666666666
+Health: 666666,6266666666
+Pension: 666666,6266666666
+
+----------New Employee----------
+Document: 111551
+First Name: lll
+Last Name: kk
+Salary: 1000000
+Worked Days: 30
+Accrued: 1000000
+Health: 999999,96
+Pension: 999999,96
+
+----------New Employee----------
+Document: 1212
+First Name: poopo
+Last Name: popo
+Salary: 3000000
+Worked Days: 30
+Accrued: 3000000
+Health: 2999999,96
+Pension: 2999999,96
+
+----------New Employee----------
+Document: 0
+First Name: 
+Last Name: 
+Salary: 0
+Worked Days: 0
+Accrued: 0
+Health: -0,04
+Pension: -0,04
+
+----------New Employee----------
+Document: 0
+First Name: 
+Last Name: 
+Salary: 0
+Worked Days: 0
+Accrued: 0
+Health: -0,04
+Pension: -0,04
+
+----------New Employee----------
+Document: 1
+First Name: 88
+Last Name: 2
+Salary: -56565
+Worked Days: 10
+Accrued: -18855
+Health: -18855,04
+Pension: -18855,04
+
+----------New Employee----------
+Document: 1
+First Name: ñ
+Last Name: l
+Salary: -100
+Worked Days: 0
+Accrued: -0
+Health: -0,04
+Pension: -0,04
